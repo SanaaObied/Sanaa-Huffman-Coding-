@@ -1,4 +1,4 @@
-                                                                                  Overview 
+                                                                   Overview 
 
 This project focuses on implementing Huffman Coding, a widely used lossless compression algorithm. The process involves reading a file, calculating byte frequencies, constructing a Huffman tree, and generating a compressed file. The project includes both compression and decompression phases, ensuring the original data is accurately restored. A graphical interface will be used to display results.
 <img width="784" alt="image" src="https://github.com/user-attachments/assets/55db17fe-ccfc-48c3-ac9f-b83b26a09b30">
